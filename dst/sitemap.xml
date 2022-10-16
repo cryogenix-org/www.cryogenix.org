@@ -18,4 +18,5 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://cryogenix.org/shellcoding_on_freebsd.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
 <url><loc>https://cryogenix.org/gophernicus.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
 <url><loc>https://cryogenix.org/cross_compiling_openbsd_arm64.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/index.sync-conflict-20221016-014059-CERVA7Q.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
 </urlset>
