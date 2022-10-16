@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://cryogenix.org/OpenBSD_arm64_qemu.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/index.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/OpenVMS_and_SIMH_pt1.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/OpenVMS_and_SIMH_pt2.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/RET_level1.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/openbsd_desktop.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/NCSA_Mosaic_OpenBSD.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/OpenBSD_assembly.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/AlphaServer_ES40_Emulation.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/arduino_433mhz.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/openbsd_nameserver.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/shellcoding_on_freebsd.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/gophernicus.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://cryogenix.org/cross_compiling_openbsd_arm64.html</loc><lastmod>2022-10-16</lastmod><priority>1.0</priority></url>
+</urlset>

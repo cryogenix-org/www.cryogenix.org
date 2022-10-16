@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://cgx.sh/AlphaServer_ES40_Emulation.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/NCSA_Mosaic_OpenBSD.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/OpenBSD_arm64_qemu.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/OpenBSD_assembly.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/OpenBSD_nameserver.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/OpenVMS_and_SIMH_pt1.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/OpenVMS_and_SIMH_pt2.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/RET_level1.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/arduino_433mhz.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/cross_compiling_openbsd_arm64.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/gophernicus.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/index.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/openbsd_desktop.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/openbsd_nameserver.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+<url><loc>https://cgx.sh/shellcoding_on_freebsd.html</loc><lastmod>2022-10-01</lastmod><priority>1.0</priority></url>
+</urlset>
